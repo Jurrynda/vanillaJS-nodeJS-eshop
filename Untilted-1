@@ -1,0 +1,4 @@
+# username: vanilla-js-eshop
+# password: eshopjsvanilla
+# db name: vanilla-js-eshop-db
+mongodb+srv://vanilla-js-eshop:eshopjsvanilla@cluster0.qjwr62g.mongodb.net/?retryWrites=true&w=majority
